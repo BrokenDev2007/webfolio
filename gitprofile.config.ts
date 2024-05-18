@@ -32,21 +32,14 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        // more can be copy pasted over here
         {
-          title: 'Project Name',
+          title: 'The Social Tree',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A place to connect people as well as all of their social media accounts.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://cdn.discordapp.com/attachments/942235058960474112/1241255147812945950/FamilyTree_withoutbg.png?ex=66498870&is=664836f0&hm=7a59e043c402d88dd3fbc6beaf9615f1798c5aab1cad07ef047b34fd83826acf&',
+          link: 'https://web.socialtree.site',
         },
       ],
     },
