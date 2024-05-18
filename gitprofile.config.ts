@@ -59,20 +59,20 @@ const CONFIG = {
   social: {
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'https://www.instagram.com/chiragroy2006.dev/',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: 'https://youtube.com/@chirag_was_here', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: '',
+    medium: 'https://medium.com/@brokendev2007',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://www.brokendev.tech',
     phone: '',
-    email: 'brokendev2007n@gmail.com',
+    email: 'brokendev2007@gmail.com',
   },
   resume: {
     fileUrl:
@@ -96,17 +96,17 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Media Hancer',
+      position: 'Full Stack Web Developer',
+      from: 'Feb 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: 'Freelancing',
+      position: 'Freelancer',
+      from: 'August 2022',
+      to: 'January 2024',
       companyLink: 'https://example.com',
     },
   ],
