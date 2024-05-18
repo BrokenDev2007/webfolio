@@ -59,14 +59,14 @@ const CONFIG = {
   social: {
     researchGate: '',
     facebook: '',
-    instagram: 'https://www.instagram.com/chiragroy2006.dev/',
+    instagram: 'chiragroy2006.dev',
     reddit: '',
     threads: '',
-    youtube: 'https://youtube.com/@chirag_was_here', // example: 'pewdiepie'
+    youtube: '@chirag_was_here', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'https://medium.com/@brokendev2007',
+    medium: '@brokendev2007',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
