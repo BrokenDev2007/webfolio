@@ -62,11 +62,11 @@ const CONFIG = {
     instagram: 'chiragroy2006.dev',
     reddit: '',
     threads: '',
-    youtube: '@chirag_was_here', // example: 'pewdiepie'
+    youtube: 'chirag_was_here', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: '@brokendev2007',
+    medium: 'brokendev2007',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
