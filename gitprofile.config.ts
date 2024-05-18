@@ -52,9 +52,9 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
-    description: '',
-    imageURL: '',
+    title: 'Broken Developer',
+    description: 'You can view my portfolio here on this website.',
+    imageURL: 'https://cdn.discordapp.com/attachments/942235058960474112/1241243827059036160/BrokenDevLogo.png?ex=66497de5&is=66482c65&hm=64842c8021d6c8475d98957d748ab655478a1c473a936d3ba223ad92bb4e3c09&',
   },
   social: {
     researchGate: '',
