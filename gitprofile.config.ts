@@ -106,9 +106,8 @@ const CONFIG = {
   certifications: [
     {
       name: 'Web Cloud Engineer',
-      body: 'internship program @ Google Cloud',
+      body: 'Remote Internship Program @ Google-Cloud',
       year: 'December 2023',
-      link: 'https://example.com',
     },
   ],
   educations: [
