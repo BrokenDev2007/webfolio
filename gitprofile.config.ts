@@ -105,15 +105,15 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Web Cloud Engineer',
-      body: 'Remote Internship Program @ Google-Cloud',
+      name: 'Jr. Web Cloud Engineer',
+      body: 'Remote Workshop Program @ Google-Cloud',
       year: 'December 2023',
     },
   ],
   educations: [
     {
       institution: 'UpGrad Online',
-      degree: 'BS in Computer Science',
+      degree: 'Machine Learning (CS)',
       from: '2023',
       to: 'Present',
     },
