@@ -105,9 +105,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Web Cloud Engineer',
+      body: 'internship program @ Google Cloud',
+      year: 'December 2023',
       link: 'https://example.com',
     },
   ],
