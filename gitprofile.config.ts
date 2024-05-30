@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['brokendev2007/SuzumeV1.1', 'brokendev2007/social-tree'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['brokendev2007/SuzumeV1.1', 'brokendev2007/social-tree', 'brokendev2007/firebase-react-drive'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
