@@ -25,34 +25,34 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['brokendev2007/SuzumeV1.1', 'brokendev2007/social-tree', 'brokendev2007/firebase-react-drive'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['brokendev2007/Suzume', 'brokendev2007/social-tree', 'brokendev2007/firebase-react-drive'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'My Projects/Startups',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         // more can be copy pasted over here
         {
-          title: 'The Social Tree',
+          title: 'Crafty - Game Hosting Solutions',
           description:
-            'A place to connect people as well as all of their social media accounts.',
+            'A cloud based server operated company giving gamers ability to run multiplayer servers in game such as FiveM, GTAV, Minecraft, Rust etc. This startup has been a blow up as well with active 2k+ registered users and been my passive source of income.',
           imageUrl:
-            'https://cdn.discordapp.com/attachments/942235058960474112/1241255147812945950/FamilyTree_withoutbg.png?ex=66498870&is=664836f0&hm=7a59e043c402d88dd3fbc6beaf9615f1798c5aab1cad07ef047b34fd83826acf&',
-          link: 'https://web.socialtree.site',
+            'https://i.ibb.co/WKNS76r/Crafty-Logo-Transparent.png',
+          link: 'https://craftymc.host',
         },
       ],
     },
   },
   seo: {
-    title: 'Broken Developer',
-    description: 'You can view my portfolio here on this website.',
+    title: 'Chirag Roy',
+    description: 'Hello, I am a cloud based machine developer making applications and operating virtual computers in operating systems such as Linux, Debian and Ubuntu. Chirag.cloud is a all in one summary portfolio website of my development journey so far!',
     imageURL: 'https://cdn.discordapp.com/attachments/942235058960474112/1241243827059036160/BrokenDevLogo.png?ex=66497de5&is=66482c65&hm=64842c8021d6c8475d98957d748ab655478a1c473a936d3ba223ad92bb4e3c09&',
   },
   social: {
     researchGate: '',
     facebook: '',
-    instagram: 'chiragroy2006.dev',
+    instagram: 'chiragroy2006',
     reddit: '',
     threads: '',
     youtube: 'chirag_was_here', // example: 'pewdiepie'
@@ -63,9 +63,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.brokendev.tech',
+    website: 'https://www.chirag.cloud',
     phone: '',
-    email: 'brokendev2007@gmail.com',
+    email: 'me@chirag.cloud',
   },
   resume: {
     fileUrl:
@@ -140,7 +140,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -203,7 +203,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made by Chirag Roy`,
+  footer: `All Systems Operational ✅`,
 
   enablePWA: true,
 };
