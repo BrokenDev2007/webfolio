@@ -69,7 +69,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://docs.google.com/document/d/e/2PACX-1vTdxuzGvox-IYTjTjNoT1RAYadoDxviniF2m8qAsZwzmC3QEOJYdqSYohap1WTqCJLCG5zXmO8PpR_2/pub', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -88,22 +88,13 @@ const CONFIG = {
     'Tailwind',
   ],
   experiences: [
-    {
-      company: 'Media Hancer',
-      position: 'Full Stack Web Developer',
-      from: 'Feb 2024',
-      to: 'Present',
-      companyLink: '',
-    },
-    {
-      company: 'Freelancing',
-      position: 'Freelancer',
-      from: 'August 2022',
-      to: 'January 2024',
-      companyLink: 'https://example.com',
-    },
   ],
   certifications: [
+    {
+      name: 'STEM Expert',
+      body: 'Participated @ New-York Academy of Sciences',
+      year: 'Februrary 2024',
+    },
     {
       name: 'Jr. Web Cloud Engineer',
       body: 'Remote Workshop Program @ Google-Cloud',
@@ -111,12 +102,7 @@ const CONFIG = {
     },
   ],
   educations: [
-    {
-      institution: 'UpGrad Online',
-      degree: 'Machine Learning (CS)',
-      from: '2023',
-      to: 'Present',
-    },
+   
     {
       institution: 'Foundation Academy IITP',
       degree: 'High School Graduate',
