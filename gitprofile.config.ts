@@ -34,12 +34,12 @@ const CONFIG = {
       projects: [
         // more can be copy pasted over here
         {
-          title: 'Crafty - Game Hosting Solutions',
+          title: 'research.chirag.cloud',
           description:
-            'A cloud based server operated company giving gamers ability to run multiplayer servers in game such as FiveM, GTAV, Minecraft, Rust etc. This startup has been a blow up as well with active 2k+ registered users and been my passive source of income.',
+            'A cloud based STEM project repository keeping your own scientific publishments and research articles. Interested users can either read the blogs or post their own and share with each other for knowledge enhancement.',
           imageUrl:
-            'https://i.ibb.co/WKNS76r/Crafty-Logo-Transparent.png',
-          link: 'https://craftymc.host',
+            'https://raw.githubusercontent.com/BrokenDev2007/research/refs/heads/main/resources/logo.png',
+          link: 'https://research.chirag.cloud',
         },
       ],
     },
@@ -91,8 +91,8 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'STEM Expert',
-      body: 'Participated @ New-York Academy of Sciences',
+      name: 'Young Publisher Award',
+      body: 'Contributed a Biology Research Article.',
       year: 'Februrary 2024',
     },
     {
@@ -106,6 +106,12 @@ const CONFIG = {
     {
       institution: 'Foundation Academy IITP',
       degree: 'High School Graduate',
+      from: '2023',
+      to: '2025',
+    },
+    {
+      institution: 'New York Academy Of Sciences',
+      degree: 'Jr. STEM',
       from: '2023',
       to: '2025',
     },
