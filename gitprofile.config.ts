@@ -111,7 +111,7 @@ const CONFIG = {
     },
     {
       institution: 'New York Academy Of Sciences',
-      degree: 'Jr. STEM',
+      degree: 'Selected Member @ The Junior Academy',
       from: '2023',
       to: '2025',
     },
