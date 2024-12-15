@@ -41,6 +41,14 @@ const CONFIG = {
             'https://raw.githubusercontent.com/BrokenDev2007/research/refs/heads/main/resources/logo.png',
           link: 'https://research.chirag.cloud',
         },
+        {
+          title: 'Chirag Cloud LLC.',
+          description:
+            'A "Licensed Backend Cloud Infrastructure Provider". Providing backend and server infrastructures to new startups at a very minimum price.',
+          imageUrl:
+            'https://raw.githubusercontent.com/BrokenDev2007/research/refs/heads/main/resources/logo.png',
+          link: 'https://buy.chirag.cloud',
+        },
       ],
     },
   },
